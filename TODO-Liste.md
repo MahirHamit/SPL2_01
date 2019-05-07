@@ -9,4 +9,4 @@
 ### Teil 2
 - [ ] python 3.x installieren
 - [ ] erste Schritte mit python
-- [ ] programm mit python
+- [ ] programmieren mit python
